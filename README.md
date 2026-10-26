@@ -46,3 +46,9 @@ This project analyzes the UCI Online Retail dataset to understand product perfor
 This analysis highlights sales patterns across products, countries, and months. The findings can support further investigation into inventory planning and sales performance.
 
 *Note: Sales value is not profit. December 2011 may be incomplete.*
+
+Complete Assessment Files:-
+(All assessment deliverables are available in the Google Drive folder below)
+
+Open the Final Submission Folder:
+https://drive.google.com/drive/folders/1w8WnZGpnJbSJlOq6cS1yM-1HDxjkk7Gi?usp=drive_link
