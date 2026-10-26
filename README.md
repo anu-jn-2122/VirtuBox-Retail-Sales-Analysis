@@ -1,2 +1,48 @@
-# VirtuBox-Retail-Sales-Analysis
-Retail sales analysis using Python, Google Sheets and Looker Studio.
+# Retail Sales Data Analysis
+
+## VirtuBox Infotech — Data Analyst Assessment
+
+### Project Overview
+This project analyzes the UCI Online Retail dataset to understand product performance, country-wise sales, and monthly sales trends.
+
+### Dataset
+- Source: [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+- Original records: 541,909
+- Original columns: 8
+- Cleaned records after removing duplicates: 536,641
+
+### Tools Used
+- Python
+- Pandas and NumPy
+- Google Sheets
+- Looker Studio
+- PowerPoint
+
+### Data Cleaning
+- Removed 5,268 duplicate rows.
+- Standardized text fields.
+- Created `SalesValue = Quantity × UnitPrice`.
+- Flagged cancellations, missing values, and unusual quantities and prices.
+- Created a `YearMonth` field for monthly analysis.
+
+### Key Findings
+- Positive sales line value: approximately £10.64 million.
+- The UK contributed approximately 84.6% of positive sales value.
+- November 2011 had the highest monthly positive sales value in the available data.
+- The top 10 identified customers contributed approximately 17.3% of identified-customer sales.
+
+### Deliverables
+- Processed dataset
+- Python notebook or script
+- Google Sheets assessment workbook
+- Looker Studio dashboard
+- PowerPoint presentation
+
+### Project Links
+- Dashboard: [Paste your Looker Studio link here]
+- Workbook: [Paste your Google Sheets link here]
+
+### Conclusion
+This analysis highlights sales patterns across products, countries, and months. The findings can support further investigation into inventory planning and sales performance.
+
+*Note: Sales value is not profit. December 2011 may be incomplete.*
