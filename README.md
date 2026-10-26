@@ -39,8 +39,8 @@ This project analyzes the UCI Online Retail dataset to understand product perfor
 - PowerPoint presentation
 
 ### Project Links
-- Dashboard: [Paste your Looker Studio link here]
-- Workbook: [Paste your Google Sheets link here]
+- Dashboard: https://datastudio.google.com/reporting/5c9465b9-abe3-4a4c-92b6-2d742e2339a9
+- Workbook: https://docs.google.com/spreadsheets/d/1ELpTwHSLkuxYx3Jyr04ZNw_ys7RFc9twVCOb3UNsTnk/edit?usp=sharing
 
 ### Conclusion
 This analysis highlights sales patterns across products, countries, and months. The findings can support further investigation into inventory planning and sales performance.
